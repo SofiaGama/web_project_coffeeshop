@@ -3,7 +3,8 @@
   max-width: 1600px;
   display: flex;
   justify-content: center;
-  font-family: Inter, Arial, sans-serif, "Noto-serif", "Times New Roman", serif;
+  font-family: "inter", arial, sans-serif, "noto-serif", "times new roman",
+    serif;
   font-size: 16px;
   line-height: 20px;
 }
