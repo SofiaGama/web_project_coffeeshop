@@ -214,7 +214,7 @@
   box-sizing: border-box;
 }
 
-.reservation__tittle {
+.reservation__title {
   display: flex;
   justify-content: center;
   margin-bottom: 80px;
