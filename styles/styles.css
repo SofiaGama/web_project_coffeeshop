@@ -326,3 +326,161 @@
   line-height: 20px;
   margin-top: 32px;
 }
+
+.menu {
+}
+
+.menu__title {
+}
+
+.menu__subtitle {
+}
+
+.menu__cards {
+}
+
+.card {
+}
+
+.card__title {
+}
+
+.card__content {
+}
+
+.card__list-item {
+}
+
+.card__list-divider {
+}
+
+.about {
+  background-color: #0a2850;
+  color: #fff;
+  padding: 100px 80px;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  box-sizing: border-box;
+  justify-content: space-between;
+}
+
+.about__title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+  max-width: 251px;
+  z-index: 2;
+  margin: 0;
+}
+
+.about__content {
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  max-width: 660px;
+  z-index: 1;
+  margin: 19px 0px 13px;
+}
+
+.about__paragraph {
+  margin: 0px 0px 20px 0px;
+}
+
+.about__circle {
+  background-color: #2f80ed;
+  width: 426px;
+  height: 426px;
+  position: absolute;
+  top: -152px;
+  left: -129px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.footer {
+  background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
+  color: #fff;
+  font-size: 16px;
+  line-height: 20px;
+  box-sizing: border-box;
+  padding: 60px 100px 60px 80px;
+}
+
+.footer__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  margin-bottom: 100px;
+  width: 100%;
+}
+
+.footer__logo {
+  width: 105px;
+  height: 39px;
+}
+
+.footer__social {
+  flex-direction: column;
+  width: auto;
+  min-width: 109px;
+}
+
+.footer__social-heading {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0 0 20px 0;
+}
+
+.footer__list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.footer__list-item {
+  color: #f2f2f2;
+  margin-bottom: 16px;
+}
+
+.footer__social-link {
+  color: #fff;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  text-decoration: none;
+}
+
+.footer__social-link:hover {
+  color: #c1c1c1;
+}
+
+.footer__social-icon {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  height: 16px;
+  width: 16px;
+  display: flex;
+  margin-right: 10px;
+}
+
+.footer__copyright {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  justify-content: flex-start;
+  margin: 0;
+}
